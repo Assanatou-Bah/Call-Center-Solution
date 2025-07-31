@@ -42,7 +42,7 @@ The dashboard is fully interactive, allowing users to filter by **agent**, **cal
 
 The dashboard empowers managers to take a data-driven approach to improving service quality and operational efficiency.
 
-![Call Center Dashboard](https://github.com/Assanatou-Bah/your-repo-name/blob/main/call-center-dashboard.png?raw=true)
+![image-alt](https://github.com/Assanatou-Bah/Call-Center-Solution/blob/main/image/call%20center.png?raw=true)
 
 ---
 
